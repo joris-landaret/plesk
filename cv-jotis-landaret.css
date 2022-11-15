@@ -1,0 +1,39 @@
+html {
+    font-size: 20px; /* px signifie 'pixels': la taille de base pour la police est désormais 10 pixels de haut  */
+    font-family: 'Lora', serif;
+    font-family: 'Open Sans', sans-serif; /* cela devrait être le reste du résultat obtenu à partir de Google fonts */
+  }
+  h1 {
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: #00539F;
+    text-shadow: 3px 3px 1px rgb(200, 206, 30);
+  }
+  
+  p, li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+  html {
+    background-color: #22f2f2;
+  }
+  body {
+    width: 60%;
+    margin: 2% auto;
+    background-color: #2cabbe;
+    padding: 0px 20px 20px 20px;
+    border: 10px solid rgb(31, 28, 206);
+
+  }
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+  .titre {
+    color: #00539F;
+    font-weight: bold;
+
+  }
